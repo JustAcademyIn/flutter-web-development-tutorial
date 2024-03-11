@@ -25,3 +25,8 @@ Roshan Chaturvedi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=9987184296)
 Email id: info@justacademy.co
 
+[flutter language tutorial.](https://www.linkedin.com/pulse/flutter-language-tutorial-justacademy-delhi-z5rqc/)
+
+[flutter programming language tutorial.](https://www.linkedin.com/pulse/flutter-programming-language-tutorial-justacademy-delhi-4xgyc/)
+
+[flutter web app tutorial.](https://www.linkedin.com/pulse/flutter-web-app-tutorial-justacademy-delhi-jcosc/)

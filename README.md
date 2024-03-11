@@ -1,8 +1,8 @@
-# flutter-web-development-tutorial
-## flutter web development tutorial
+# Flutter Web Development Tutorial
+## Flutter Web Development Tutorial
 Flutter web development is a full-stack framework that allows developers to create fast, modern, and visually appealing web applications with a single codebase. It uses the Flutter SDK, which is based on Dart language, to build efficient and cross-platform apps for both mobile and web platforms. This tutorial offers a step-by-step guide on how to set up, develop, and deploy applications using Flutter for the web, along with its widgets, plugins, and tooling support, making it an ideal choice for web developers.
 ### To Download Our Brochure https://justacademy.co/download-brochure-for-free
-Message us for more information +91 9987184296
+### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=9987184296)
 
 1) Extensive use of widgets: Flutter is a UI toolkit that uses a wide range of customizable widgets to create beautiful and responsive web interfaces. These widgets are built to offer a seamless user experience across different platforms, making it easier for developers to create engaging web applications.
 
@@ -19,8 +19,9 @@ Message us for more information +91 9987184296
 ### Browse our course links : https://www.justacademy.co/all-courses 
 ### To Join our FREE DEMO Session - [ Click Here ](https://justacademy.co/register-for-course-demo)
 
-This information is sourced from JustAcademy
+This information is sourced from [JustAcademy](https://justacademy.co/)
 Contact Info:
 Roshan Chaturvedi
 ### Message us on Whatsapp: [+91 9987184296](https://api.whatsapp.com/send?phone=9987184296)
 Email id: info@justacademy.co
+
